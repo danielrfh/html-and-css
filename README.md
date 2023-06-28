@@ -1,2 +1,1 @@
-# ztm
-Zero to Mastery
+# HTML and CSS Practice
